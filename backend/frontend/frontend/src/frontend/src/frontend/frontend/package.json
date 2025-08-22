@@ -13,4 +13,5 @@
   }
 }
 
-Add React package.json dependencies file
+Move package.json to frontend folder
+
