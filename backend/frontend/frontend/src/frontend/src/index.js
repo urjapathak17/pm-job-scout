@@ -5,4 +5,4 @@ import App from './App';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
 
-Add React index.js entry point
+Move index.js to correct src folder
