@@ -57,5 +57,5 @@ export default function App() {
   );
 }
 
-Add React App.jsx main component
+Move App.jsx to correct src folder
 
